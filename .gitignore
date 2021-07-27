@@ -3,6 +3,7 @@ node_modules
 /dist
 /jsons
 /bertmodels
+/otherDocs
 
 # local env files
 .env.local
